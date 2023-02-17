@@ -8,7 +8,8 @@
 #### 2. Démarrer Zookeeper.
 #### 3. Démarrer Kafka-server.
 #### 4. Exécuter Zookeper et Kafka.
-     ![q1](https://user-images.githubusercontent.com/75500068/219801225-614f3fe9-cb1f-4340-b506-0d8e3739b39c.png)
+![q1](https://user-images.githubusercontent.com/75500068/219802262-5fcd1f45-233a-47b6-8269-4453e91a2db0.png)
+
 ![q2](https://user-images.githubusercontent.com/75500068/219801243-9915e17d-3f5e-45b5-b9e3-6bc5065567ec.png)
 
 #### 5. Tests avec Kafka-console-producer et kafka-console-consumer avec la commande :
